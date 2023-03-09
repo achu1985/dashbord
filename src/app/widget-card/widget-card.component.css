@@ -1,0 +1,21 @@
+.card{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    width: 200px;
+    height: 100px;
+    color: black;
+}
+
+.blue{
+    background-color: rgb(249, 253, 7);
+}
+.orange{
+    background-color: chartreuse;
+}
+.green{
+    background-color: orange;
+}
+.red{
+    background-color: rgb(247, 8, 139);
+}
